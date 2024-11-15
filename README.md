@@ -8,7 +8,7 @@ Power BI Sample files and demos
 
 📁 Files:
 
-- [Blank data file](chocolates-sample-data.xlsx) 
+- [Raw data file](chocolates-sample-data.xlsx) 
 - [Presntation file](Chocolate_Sales_Analysis-presentation.pdf)
 - [Dashboard overview](Dashboard_Demo.mp4) 
 
